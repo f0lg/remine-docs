@@ -1,11 +1,11 @@
 export default defineAppConfig({
   docus: {
-    title: 'Docus',
+    title: 'ReMine',
     description: 'The best place to start your documentation.',
-    image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
+    image: 'https://github.com/f0lg/remine/assets/144524322/6a335c15-4bb1-4d2e-a2a4-8b3e7d793733',
     socials: {
       twitter: 'nuxt_js',
-      github: 'nuxt-themes/docus',
+      github: 'f0lg/remine',
       nuxt: {
         label: 'Nuxt',
         icon: 'simple-icons:nuxtdotjs',
